@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-description: Typescript v5 Best Practices
-alwaysApply: true
----
-
 ## Basic Typing
 - Always use explicit types when inference is unclear.
 - Prefer `type` aliases over `interface`, unless you need to extend multiple types.

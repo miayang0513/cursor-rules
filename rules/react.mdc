@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-description: React v19 Best Practices
-alwaysApply: true
----
-
 ## Components and Hooks
 - Use function components exclusively.
 - Use React hooks correctly; avoid misuse of `useEffect` for data fetching.

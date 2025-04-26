@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-description: Next.js v15 Best Practices
-alwaysApply: true
----
-
 ## Directory and Components
 - Use `app/` directory structure.
 - Prefer Server Components by default.

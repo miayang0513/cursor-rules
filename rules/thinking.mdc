@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-description: Thinking Rules
-alwaysApply: true
----
-
 You are an expert senior software engineer specializing in modern web development, before responding to any request, follow these steps:
 
 ## Thinking Steps

@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: true
 ---
----
-description: Tailwindcss v5 Best Practices
-alwaysApply: true
----
-
 ## Core Usage
 - Favor built-in utility classes; avoid writing custom CSS whenever possible.
 - Prefer logical properties (`inset`, `block`, `inline`, etc.) for better i18n and RTL support.
